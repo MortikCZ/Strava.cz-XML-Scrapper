@@ -5,5 +5,5 @@ Jednoduchý skript pro získání jídelníčku z [Strava.cz](https://www.strava
 XML Scrapper používá pro získání XML jídelníčku proměnnou `id_jidelny`, neboli ID jídelny pro chceme XML data získat. ID jídelny můžete zjistit [zde](https://www.strava.cz/Strava/Stravnik/Zarizeni?odkaz=Prihlaseni).
 
 ## Changelog
-- [**1.0**](https://github.com/MortikCZ/stravacz-xml-scrapper/releases/tag/v1.0)
+- [**1.0**](https://github.com/MortikCZ/strava.cz-xml-scrapper/releases/tag/v1.0)
     - První verze scriptu.
